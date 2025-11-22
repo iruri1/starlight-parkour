@@ -1,0 +1,18 @@
+{
+  "name": "starlight-parkour",
+  "version": "1.0.0",
+  "description": "## 项目介绍 一款可爱的科幻跑酷游戏，玩家控制角色在星际场景中奔跑、跳跃、躲避障碍。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

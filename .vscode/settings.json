@@ -1,0 +1,35 @@
+{
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.associations": {
+        "*.ts": "typescript",
+        "*.js": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "typescript": "html",
+        "typescriptreact": "html"
+    },
+    "typescript.preferences.quoteStyle": "single",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/temp": true,
+        "**/library": true,
+        "**/local": true,
+        "**/build": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/temp": true,
+        "**/library": true,
+        "**/local": true,
+        "**/build": true,
+        "**/*.meta": true
+    },
+    "cocoscreator.trace": true,
+    "cocoscreator.port": 34567
+}
